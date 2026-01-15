@@ -1,0 +1,2 @@
+/usr/bin/ar qc libInversePerm.a CMakeFiles/InversePerm.dir/src/InversePerm.cpp.o
+/usr/bin/ranlib libInversePerm.a

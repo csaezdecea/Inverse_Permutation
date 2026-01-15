@@ -1,0 +1,7 @@
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/heap.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/InversePerm.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/InverseON2.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/InverseMK.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/Test.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/edit_cache.dir
+/home/cristian/work/Github/InversePerm/build/CMakeFiles/rebuild_cache.dir

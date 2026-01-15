@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/InverseON2.dir/apps/InverseON2.cpp.o -o InverseON2  libInversePerm.a libheap.a 

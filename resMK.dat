@@ -1,0 +1,673 @@
+****Results MK*****
+######### RESULTS ########
+log2(N) = 16  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.04 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.03 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.03 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.03 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 17  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.06 s 
+The inverse of the permutation is correct until n = 13107
+######### RESULTS ########
+log2(N) = 17  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.06 s 
+The inverse of the permutation is correct until n = 13107
+######### RESULTS ########
+log2(N) = 17  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.06 s 
+The inverse of the permutation is correct until n = 13107
+######### RESULTS ########
+log2(N) = 17  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.06 s 
+The inverse of the permutation is correct until n = 13107
+######### RESULTS ########
+log2(N) = 18  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.13 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.13 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.13 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.13 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 19  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 2
+mergeKsort ex time = 0.28 s 
+The inverse of the permutation is correct until n = 52428
+######### RESULTS ########
+log2(N) = 19  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 2
+mergeKsort ex time = 0.28 s 
+The inverse of the permutation is correct until n = 52428
+######### RESULTS ########
+log2(N) = 19  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 2
+mergeKsort ex time = 0.29 s 
+The inverse of the permutation is correct until n = 52428
+######### RESULTS ########
+log2(N) = 19  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 2
+mergeKsort ex time = 0.28 s 
+The inverse of the permutation is correct until n = 52428
+######### RESULTS ########
+log2(N) = 20  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.56 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.57 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.59 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.58 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 21  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 1.18 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 1.10 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 1.16 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 1.18 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 22  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 2.50 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 2.28 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 2.31 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 2.30 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 23  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 34
+mergeKsort ex time = 4.88 s 
+The inverse of the permutation is correct until n = 838860
+######### RESULTS ########
+log2(N) = 23  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 34
+mergeKsort ex time = 4.80 s 
+The inverse of the permutation is correct until n = 838860
+######### RESULTS ########
+log2(N) = 23  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 34
+mergeKsort ex time = 4.93 s 
+The inverse of the permutation is correct until n = 838860
+######### RESULTS ########
+log2(N) = 23  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 34
+mergeKsort ex time = 5.20 s 
+The inverse of the permutation is correct until n = 838860
+######### RESULTS ########
+log2(N) = 24  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 10.08 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 9.84 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 10.86 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 10.90 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 25  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 134
+mergeKsort ex time = 21.80 s 
+The inverse of the permutation is correct until n = 3355443
+######### RESULTS ########
+log2(N) = 25  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 134
+mergeKsort ex time = 21.18 s 
+The inverse of the permutation is correct until n = 3355443
+######### RESULTS ########
+log2(N) = 25  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 134
+mergeKsort ex time = 22.56 s 
+The inverse of the permutation is correct until n = 3355443
+######### RESULTS ########
+log2(N) = 25  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 134
+mergeKsort ex time = 21.61 s 
+The inverse of the permutation is correct until n = 3355443
+######### RESULTS ########
+log2(N) = 26  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 43.39 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 43.73 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 43.81 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 45.41 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 27  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 92.81 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 91.16 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 92.74 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 91.18 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 28  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 187.46 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 187.59 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 188.96 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 2
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 184.86 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 16  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 18  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.08 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.08 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.08 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.09 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 20  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.34 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.37 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.33 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.36 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 22  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 1.62 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 1.48 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 1.63 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 22  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 17
+mergeKsort ex time = 1.62 s 
+The inverse of the permutation is correct until n = 419430
+######### RESULTS ########
+log2(N) = 24  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 6.50 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 6.41 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 6.67 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 6.67 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 26  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 29.71 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 27.48 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 29.44 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 26  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 268
+mergeKsort ex time = 27.82 s 
+The inverse of the permutation is correct until n = 6710886
+######### RESULTS ########
+log2(N) = 28  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 115.49 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 117.88 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 118.55 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 4
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 119.14 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 18  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.08 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.08 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.07 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 18  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 1
+mergeKsort ex time = 0.07 s 
+The inverse of the permutation is correct until n = 26214
+######### RESULTS ########
+log2(N) = 21  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 0.67 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 0.66 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 0.61 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 21  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 8
+mergeKsort ex time = 0.67 s 
+The inverse of the permutation is correct until n = 209715
+######### RESULTS ########
+log2(N) = 24  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.53 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.90 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.45 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.32 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 27  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 48.34 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 50.59 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 49.43 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 27  k = 8
+Size of integers in bytes = 4
+Size of an array in MB = 537
+mergeKsort ex time = 50.32 s 
+The inverse of the permutation is correct until n = 13421772
+######### RESULTS ########
+log2(N) = 16  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.01 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 16  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 0
+mergeKsort ex time = 0.02 s 
+The inverse of the permutation is correct until n = 6553
+######### RESULTS ########
+log2(N) = 20  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.30 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.30 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.27 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 20  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 4
+mergeKsort ex time = 0.27 s 
+The inverse of the permutation is correct until n = 104857
+######### RESULTS ########
+log2(N) = 24  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.61 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.60 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.09 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 24  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 67
+mergeKsort ex time = 5.65 s 
+The inverse of the permutation is correct until n = 1677721
+######### RESULTS ########
+log2(N) = 28  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 94.76 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 92.93 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 95.30 s 
+The inverse of the permutation is correct until n = 26843545
+######### RESULTS ########
+log2(N) = 28  k = 16
+Size of integers in bytes = 4
+Size of an array in MB = 1074
+mergeKsort ex time = 94.72 s 
+The inverse of the permutation is correct until n = 26843545

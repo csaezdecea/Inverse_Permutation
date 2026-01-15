@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/InverseMK.dir/apps/InverseMK.cpp.o -o InverseMK  libInversePerm.a libheap.a 
