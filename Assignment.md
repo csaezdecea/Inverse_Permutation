@@ -29,12 +29,12 @@ The report must include:
 
 ## 2. Algorithms
 
-A permutation  $\pi$ of the set $\{1, N\}$ is a reordering of the values $ \{1, 2, \dots, N\}$, where each value appears exactly once.
+A permutation  $\pi$ of the set $\{1, N\}$ is a reordering of the values $\{1, 2, \dots, N\}$, where each value appears exactly once.
 
 The inverse of an element is defined as:
 
 
-$pi^{-1}(i): \text{the inverse permutation of } i \text{ is } j \text{ such that } \pi(j) = i$.
+$\pi^{-1}(i): \text{the inverse permutation of } i \text{ is } j \text{ such that } \pi(j) = i$.
 
 An example of the inverse of a permutation is shown in Question 2 of **Tutorial 3**.
 
@@ -56,16 +56,16 @@ This problem was studied in **Tutorial 3 (Problem 2)**, which can be used as a r
 
 The algorithm works as follows:
 
-1. Given the permutation \( \pi \), create an array of pairs \( (\pi(i), i) \).
+1. Given the permutation $\pi$, create an array of pairs $(\pi(i), i)$.
 2. Sort the array by the first component of the pair using **Merge Sort**.
 3. Project only the second component and return this new array.
 
-You are asked to determine the **optimal arity \( d \)** of Merge Sort.  
+You are asked to determine the **optimal arity $d$** of Merge Sort.  
 Recall that the arity corresponds to the number of blocks into which the array is divided, and this division is applied recursively until subarrays of size 1 are obtained.
 
 To find the optimal arity:
 - Generate sufficiently large arrays.
-- Test with arities $ d = 2, 4, 8, 16, \dots $
+- Test with arities $d = 2, 4, 8, 16, \dots$
 - Once the optimal arity is found, test the algorithm on arrays of different sizes (specified in the next section).
 - Remember to **plot your results**.
 
@@ -79,13 +79,13 @@ To find the optimal arity:
 - Follow **good programming practices**. Well-commented code makes the evaluation easier.
 - It is recommended to use **C, C++, or Java** for the implementation and **LaTeX** for the report.
 - Use arrays of size  
-  $ N = 2^{20}, 2^{21}, \dots, 2^{30} $,  
+  $N = 2^{20}, 2^{21}, \dots, 2^{30}$,  
   and repeat the tests **10 times for each N**.
   - Compute the **mean** and **standard deviation** for each $N$.
   - Discuss these values and analyze the **confidence interval** in the report.
 - Consider the maximum values supported by data types.  
   For example, the maximum value of a `short int` in C++ is **32767**.  
-  If $ N > 32767 $, a `short` type will not be able to represent all values in the permutation.  
+  If $N > 32767$, a `short` type will not be able to represent all values in the permutation.  
   Take this into account when generating permutations.
 
 ---

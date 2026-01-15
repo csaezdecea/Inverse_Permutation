@@ -128,7 +128,7 @@ Note that we reached up to $N = 2^{28}$ because for larger values the program sa
 | 27 | 92.22 ± 0.33 | ⋯ | 49.67 ± 0.44 | ⋯ | ⋯ |
 | 28 | 187.22 ± 0.74 | 117.77 ± 0.69 | ⋯ | 94.43 ± 0.45 | ⋯ |
 
-The Table  shows the mean execution times and standard deviations computed from thirteen iterations.
+The Table  shows the mean execution times and standard error of the mean (SEM) computed from thirteen iterations.
 
 ![An example image](tiempos.png)
 
