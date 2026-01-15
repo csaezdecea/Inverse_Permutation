@@ -143,7 +143,7 @@ Note: The results shown in the Figure and Table were generated using the python 
 The execution times of the `mergeKsort` algorithm are $\mathcal{O}(N \log N)$, independently of the arity. The execution proceeds through $\mathcal{O}(\log_k N)$ levels, and at each level a cost of $\mathcal{O}(N \log k)$ is incurred.
 
 The heap used in the mergeKarrays routine requires $\mathcal{O}(log k)$ time for each insertion and $\mathcal{O}(1)$ time for
-each minimum extraction. Therefore, the total cost of merging $k$ arrays of length n is $\mathcal{O}(k\, n + k\, n \, log k),$ which is equivalent to $\mathcal{O}(k \, n \, log k)$.
+each minimum extraction. Therefore, the total cost of merging $k$ arrays of length n is $\mathcal{O}(k n + k n  \log k),$ which is equivalent to $\mathcal{O}(k n  \log k)$.
 At level $l$ there are $k^l$ subarrays of size $n_l = N / k^l$, which are merged into $k^{l-1}$ sets of $k$ arrays. Thus, the time required at each level is therefore
 
 $$\mathcal{O}(k^{l-1} (k \, n_l \log k)) = \mathcal{O}(N \log k).$$
