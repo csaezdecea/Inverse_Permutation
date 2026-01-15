@@ -153,5 +153,5 @@ Multiplying by the number of levels, the total running time is
 $$\mathcal{O}((N \log k)\log_k N) = \mathcal{O}(N \log N),$$
 
 where we used the identity $\log_k N = \log N / \log k$.
-The results confirm this analysis, showing an $N \log N$ dependence regardless of arity. Higher arity generally reduces execution time, with the most significant improvement occurring between $k = 2$ and $k = 4$. Beyond $k = 4$, the gains diminish and are likely related to memory and cache behavior combined with heap performance.
+The results confirm this analysis, showing an $N \log N$ dependence regardless of arity. Higher arity generally reduces execution time, with the most significant improvement occurring between $k = 2$ and $k = 4$. Beyond $k = 4,$ the gains diminish and are likely related to memory and cache behavior combined with heap performance.
 
